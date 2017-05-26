@@ -20,10 +20,10 @@ share:
 
 social:
   github: luthes
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
+  #  stackoverflow: ''
+  linkedin: steven-luther-b347a163
+  # instagram: ''
+  # lastfm: ''
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
