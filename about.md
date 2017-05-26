@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'll be graduating June of 2017 from the University of Washington Tacoma,
+majoring in Information Technology. After graduation I'll be working at The
+Walt Disney Company as a Junior DevOps Engineer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm really interested in building scalable systems that are extremely resilient,
+with no downtime using cloud infrastructure.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[steve.luther@gmail.com](mailto:steve.luther@gmail.com)
