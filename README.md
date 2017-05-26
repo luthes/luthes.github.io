@@ -1,2 +1,0 @@
-# blog
-Testing Github Pages.
